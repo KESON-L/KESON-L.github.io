@@ -46,7 +46,7 @@ http://183.188.22.234:6001/rtp/226.0.2.52:8328
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://183.188.22.234:6001/rtp/226.0.2.149:9104
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://223.199.145.98:2222/rtp/239.253.64.150:5140
+http://183.188.22.234:6001/rtp/226.0.2.173:9296
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://183.188.22.234:6001/rtp/226.0.2.151:9120
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视

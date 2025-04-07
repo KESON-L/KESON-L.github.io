@@ -89,3 +89,13 @@ http://183.188.22.234:6001/rtp/226.0.2.55:8352
 http://183.188.22.234:6001/rtp/226.0.2.62:8408
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
 http://183.188.22.234:6001/rtp/226.0.2.180:9352
+#EXTINF:-1 tvg-name="喜剧专场" tvg-logo="https://live.fanmingming.cn/tv/喜剧专场.png" group-title="电影频道",喜剧专场
+https://hw.flv.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.flv?wsSecret=7618271590d431d6b89954606f702029&wsTime=67f4a414&u=1469285419627&seqid=17439996370943853&txyp=&sphdcdn=&sphdDC=&sphd=&exsphd=&ratio=0
+#EXTINF:-1 tvg-name="死神来了" tvg-logo="https://live.fanmingming.cn/tv/死神来了.png" group-title="电影频道",死神来了
+https://hw.flv.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.flv?wsSecret=563f41846d6b230567a5d8bd57d267a1&wsTime=67f4a4b0&u=1469283439197&seqid=17439997927686247&txyp=&sphdcdn=&sphdDC=&sphd=&exsphd=&ratio=0
+#EXTINF:-1 tvg-name="盗墓" tvg-logo="https://live.fanmingming.cn/tv/盗墓.png" group-title="电影频道",盗墓
+https://cb31e2526da6f06f5ceb3048d5a98912.livehwc3.cn/hw.flv.huya.com/src/1099531752747-1099531752747-86436092277948416-2199063628950-10057-A-0-1.flv?wsSecret=567bcc22fb933ecf582b3a60cfdbb85f&wsTime=67f480db&u=1469270669914&seqid=17439906196343238&txyp=o:n4;&sphdcdn=&sphdDC=&sphd=&exsphd=&ratio=0&policy=6&cdn_redirect=true&cdn_redirect_domain=39cbc84001fd285885184387d17b2c47.livehwc3.cn&cdn_redirect_tag=1743999839
+#EXTINF:-1 tvg-name="喜剧" tvg-logo="https://live.fanmingming.cn/tv/喜剧.png" group-title="电影频道",喜剧
+https://hw.flv.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.flv?wsSecret=2f550cfa3fd9b0314bba98664e207bc1&wsTime=67f4a517&u=1469289420065&seqid=17439998959807111&txyp=&sphdcdn=&sphdDC=&sphd=&exsphd=&ratio=0
+#EXTINF:-1 tvg-name="狄仁杰" tvg-logo="https://live.fanmingming.cn/tv/狄仁杰.png" group-title="电影频道",狄仁杰
+https://6c9c1a2c2af7eeba0a90ecc36e9dd13e.livehwc3.cn/hw.flv.huya.com/src/1239543153965-1239543153965-11135015032016863232-2479086431386-10057-A-0-1.flv?wsSecret=c49eaf776abe11f129ce9f363b57efa5&wsTime=67f4a559&u=1469283439749&seqid=17439999611766575&txyp=&fs=bgct&sphdcdn=&sphdDC=&sphd=&exsphd=&ratio=0&policy=6&cdn_redirect=true&cdn_redirect_domain=39cbc84001fd285885184387d17b2c47.livehwc3.cn&cdn_redirect_tag=1744000061
